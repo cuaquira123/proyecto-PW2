@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Proyecto_final_prowebII.Models.Pedido>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>PEDIDO</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaPedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaPedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Apellido)
+            </td>
+            <td>
+                    <a asp-action="Edit" class="btn btn-primary btn-sm" asp-route-id="@item.PedidoId">Editar</a> |
+                    <a asp-action="Details" class="btn btn-success btn-sm" asp-route-id="@item.PedidoId">Detalles</a> |
+                    <a asp-action="Delete" class="btn btn-warning btn-sm" asp-route-id="@item.PedidoId">Eliminar</a>
+                    <form asp-action="GeneratePdf" asp-route-id="@item.PedidoId" method="get" style="display: inline;">
+                        <button type="submit" class="btn btn-outline-info btn-sm">Reporte PDF</button>
+                    </form>
+                    
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

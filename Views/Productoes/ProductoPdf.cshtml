@@ -1,0 +1,96 @@
+﻿@model Proyecto_final_prowebII.Models.Producto
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Detalle del Producto</title>
+    <!-- Incluir Bootstrap CSS desde el CDN -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap5.min.css" />
+    <style>
+        body {
+            margin: 20px;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 100%;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #343a40;
+            padding-bottom: 10px;
+        }S
+
+        .logo {
+            height: 100px;
+        }
+
+        .contact-info {
+            text-align: right;
+        }
+
+            .contact-info p {
+                margin: 0;
+            }
+
+        .report-title {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .product-details {
+            margin-top: 20px;
+        }
+
+        .table th, .table td {
+            text-align: center;
+            padding: 12px;
+        }
+
+        .table th {
+            background-color: #343a40;
+            color: white;
+        }
+
+        .table td {
+            border: 1px solid #dee2e6;
+        }
+
+        .total {
+            font-weight: bold;
+            font-size: 1.5em;
+            margin-top: 20px;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="~/imagenes/logo privacidad.jpg"  alt="Imagen de logo" class="logo">
+            <div class="contact-info">
+                <p>Email: circulofragancia@gmail.com</p>
+                <p>Tel: 33556623-699695381</p>
+                <p>Todo tipo de perfume</p>
+                <p>Somos perfumes y moda capaces de seducir cada día de tu vida. </p>
+            </div>
+        </div>
+
+        <h1 class="report-title">Detalle del Producto</h1>
+
+        <div class="product-details">
+            <p><strong>Nombre:</strong> @Model.NombreProducto</p>
+            <p><strong>Año:</strong> @Model.AñoModelo</p>
+            <p><strong>Precio:</strong> @Model.Precio.ToString("C")</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+  

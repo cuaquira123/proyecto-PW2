@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Proyecto-final-prowebII.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Proyecto-final-prowebII.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\6ed246e7e3455eb9a0e7d5a50534d0d6cb966cb0481c9735d3647d172298a546244565.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\6ed246e7e3455eb9a0e7d5a50534d0d6cb966cb0481c9735d3647d172298a546244565.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\Captura de pantalla 2024-10-27 194420.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Captura de pantalla 2024-10-27 194420.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\Captura de pantalla 2024-10-27 194441.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Captura de pantalla 2024-10-27 194441.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\Captura de pantalla 2024-10-27 194458.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Captura de pantalla 2024-10-27 194458.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\Fragancia de mujer.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Fragancia de mujer.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\Inebriante.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Inebriante.jpeg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\TODAS.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\TODAS.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\empire woman.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\empire woman.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\grace rosa.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\grace rosa.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\grace-la-rose-sublime-grace-midnight.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\grace-la-rose-sublime-grace-midnight.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\gracemhinode.png",
+      "PackagePath": "staticwebassets\\imagenes\\gracemhinode.png"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\grupo de perfume.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\grupo de perfume.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\h y m hinode.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\h y m hinode.jpeg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\hombre.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\hombre.jpeg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\hombre.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\hombre.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\logo privacidad.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logo privacidad.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\m y h hinode.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\m y h hinode.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\perfume hombre.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\perfume hombre.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\perfume.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\perfume.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\png-transparent-perfume-retail-cosmetics-perfume-brand-retail-cosmetics-perfume-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\png-transparent-perfume-retail-cosmetics-perfume-brand-retail-cosmetics-perfume-thumbnail.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\sport mujer.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sport mujer.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\ultimo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ultimo.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\varios.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\varios.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\imagenes\\venyx.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\venyx.jpg"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\UPDS MATERIAS\\PROGRAMACION WEB II\\Proyecto-final-prowebII\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Proyecto-final-prowebII.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Proyecto-final-prowebII.props",
+      "PackagePath": "build\\Proyecto-final-prowebII.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Proyecto-final-prowebII.props",
+      "PackagePath": "buildMultiTargeting\\Proyecto-final-prowebII.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Proyecto-final-prowebII.props",
+      "PackagePath": "buildTransitive\\Proyecto-final-prowebII.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
